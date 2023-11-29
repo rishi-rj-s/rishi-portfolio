@@ -1,0 +1,46 @@
+#gform {
+    width: 100%;
+    margin: 0 auto;
+    font-size: 16px;
+  }
+
+  .first-part {
+    float: left;
+    width: 50%;
+  }
+
+  .address-container {
+    float: right;
+    width: 50%;
+    padding-left: 10%;
+    margin-top: 15%;
+  }
+
+  label,
+  input,
+  textarea {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+  }
+
+  .address-container ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .address-container li {
+    margin-bottom: 10px;
+  }
+
+  .fa-icon {
+    margin-right: 10px;
+  }
+
+  .fa-icon i {
+    font-size: 20px;
+  }
+
+  .fa-icon:hover {
+    color: #007bff; /* Change the color on hover */
+  }
